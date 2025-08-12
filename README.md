@@ -7,7 +7,7 @@ The goal of the project was to understand what makes a password strong, test var
 ## Screenshot
 Below is an example result from the password strength checker:
 
-![Password Test Screenshot](Screenshots/Screenshot1.png)
+![Password Test Screenshot](https://github.com/ramdubey18/password-strength-report/commit/c9f94098b3457504eb3854ae45cf94b807b46ebe)
 
 ## Objectives
 1. Create multiple passwords with varying complexity.
