@@ -4,6 +4,11 @@
 This repository contains a detailed report on password strength testing conducted using the online tool [passwordmeter.com](https://passwordmeter.com).  
 The goal of the project was to understand what makes a password strong, test various passwords, and summarize best practices for creating secure passwords.
 
+## Screenshot
+Below is an example result from the password strength checker:
+
+![Password Test Screenshot](Screenshot1.png)
+
 ## Objectives
 1. Create multiple passwords with varying complexity.
 2. Use uppercase, lowercase, numbers, symbols, and different lengths.
