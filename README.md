@@ -7,7 +7,7 @@ The goal of the project was to understand what makes a password strong, test var
 ## Screenshot
 Below is an example result from the password strength checker:
 
-![Password Test Screenshot](Screenshot1.png)
+![Password Test Screenshot](Screenshots/Screenshot1.png)
 
 ## Objectives
 1. Create multiple passwords with varying complexity.
